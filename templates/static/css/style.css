@@ -1,0 +1,13 @@
+/*
+*/
+canvas {
+    border: 2px solid rgb(255, 127, 0);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPIWi6YqECTHKvs9Gv4DR7sybPNfgCEfi0A&usqp=CAU");
+}
+/**/
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    justify-content: center;
+}
