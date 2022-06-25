@@ -1,11 +1,15 @@
 /*
+Le damos color al borde de nuestro canvas
+Colocamos un fondo a nuestro canvas
 */
 canvas {
     border: 2px solid rgb(255, 127, 0);
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPIWi6YqECTHKvs9Gv4DR7sybPNfgCEfi0A&usqp=CAU");
 }
-/**/
 
+/*
+Modificamos nuestro titulo, le agregamos un tipo de fuente, tamaño, y lo centramos
+*/
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
